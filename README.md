@@ -6,15 +6,13 @@ This will grant you with the gift of a single piece of timeless wisdom from @Uti
 
 ## I just want it to install
 
-*Scripts are made for MacOS or Windows (as I have more confidence in your ability if you're a Linux user, and I can't really be bothered to code out what the package manager happens to be). If you're on another platform better than windows, you'll need to replace ```brew``` with whatever package manager you are using*
-
 Then download it, ```chmod +x install.sh``` and run the .sh script if you're on a real computer, or just run the .ps1 script if you're on Windows and everything will be taken care of for you. You can edit your shell's startup script (```~/.bashrc,~/.zshrc,\Users\<you>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1```) and style it if you want a splash of colour or a bit more framing.
 
 ## I don't like blindly running shell scripts from strangers/I want it to run how I want it to run
 
-The install scripts aren't rocket surgery, copy the ```utilitylimb``` folder and its contents to its permanent home, install fortune through brew or winget or whatever package manager you use. Then all you need to do is call ```fortune /wherever/you/put/it/utilitylimb``` to dispense a single tweet. I have it baked into a larger "welcome" function that gives some stats when I open a shell, but you can do with it as you wish.
+The install scripts aren't rocket surgery, copy the ```utilitylimb``` folder and its contents to its permanent home, install fortune through apt, brew, dpkg, or winget or whatever package manager you use. Then all you need to do is call ```fortune /wherever/you/put/it/utilitylimb``` to dispense a single tweet. I have it baked into a larger "welcome" function that gives some stats when I open a shell, but you can do with it as you wish.
 
-I made neither fortune, nor the @UtilityLimb tweets. I managed to find an old site with an archive of the tweets, and I tracked them down, and wrote the installer script to dispense them using fortune. This kind of history deserves to be preserved.
+I made neither fortune, nor the @UtilityLimb tweets. I managed to find an old archive of the tweets (which no longer appear to be on Twitter), I just made the archive into a format useable by fortune, and wrote the installer script to dispense them using fortune. This kind of history deserves to be preserved.
 
 I hope that this brings an air of wonder to your terminal as it has mine.
 
