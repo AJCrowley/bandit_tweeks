@@ -14,7 +14,7 @@ Then download it, ```chmod +x install.sh``` and run the .sh script if you're on 
 
 The install scripts aren't rocket surgery, copy the ```utilitylimb``` folder and its contents to its permanent home, install fortune through brew or winget or whatever package manager you use. Then all you need to do is call ```fortune /wherever/you/put/it/utilitylimb``` to dispense a single tweet. I have it baked into a larger "welcome" function that gives some stats when I open a shell, but you can do with it as you wish.
 
-I made neither fortune, nor the @UtilityLimb tweets. I managed to find an old site with an archive of the tweets, and I tracked them down, and wrote the installer script to dispense them using fortune. This kind of history deserves to be preserved.
+I made neither fortune, nor the @UtilityLimb tweets. I managed to find an old archive of the tweets (which no longer appear to be on Twitter), I just made the archive into a format useable by fortune, and wrote the installer script to dispense them using fortune. This kind of history deserves to be preserved.
 
 I hope that this brings an air of wonder to your terminal as it has mine.
 
