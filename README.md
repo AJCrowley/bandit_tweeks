@@ -2,7 +2,7 @@
 
 Back when twitter was still a fun place, a person going by the handle bandit(@UtilityLimb) expertly crafted 665 tweets so weird and wonderful that they deserve a place in history.
 
-This will grant you wish the gift of a single piece of timeless wisdom from @UtilityLimb.
+This will grant you with the gift of a single piece of timeless wisdom from @UtilityLimb.
 
 ## I just want it to install
 Then download it, run the .sh script if you're on a real computer, or the .ps1 script if you're on Windows and everything will be taken care of for you. You can edit your shell's startup script (```~/.bashrc,~/.zshrc,\Users\<you>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1```) and style it if you want a splash of colour or a bit more framing.
