@@ -1,4 +1,4 @@
-# Tweets from the Banndit (@UtilityLimb)
+# Tweets from the Bandit (@UtilityLimb)
 
 Back when twitter was still a fun place, a person going by the handle bandit(@UtilityLimb) expertly crafted 665 tweets so weird and wonderful that they deserve a place in history.
 
