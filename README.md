@@ -5,6 +5,9 @@ Back when twitter was still a fun place, a person going by the handle bandit(@Ut
 This will grant you with the gift of a single piece of timeless wisdom from @UtilityLimb each time you open a terminal (or whenever you want really).
 
 ## I just want it to install
+
+*Scripts are mad for MacOS or Windows. If you're on another platform better than windows, you'll need to replace ```brew``` with whatever package manager you are using*
+
 Then download it, ```chmod +x install.sh``` and run the .sh script if you're on a real computer, or just run the .ps1 script if you're on Windows and everything will be taken care of for you. You can edit your shell's startup script (```~/.bashrc,~/.zshrc,\Users\<you>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1```) and style it if you want a splash of colour or a bit more framing.
 
 ## I don't like blindly running shell scripts from strangers/I want it to run how I want it to run
