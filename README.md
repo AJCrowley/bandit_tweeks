@@ -18,4 +18,4 @@ I hope that this brings an air of wonder to your terminal as it has mine.
 
 ---
 
-kris@8pi.ca
+kris@8pi.ca // https://buymeacoffee.com/ajcrowley
