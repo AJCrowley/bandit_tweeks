@@ -1,2 +1,20 @@
-# bandit_tweeks
-Get one free tweet from the legendary @UtilityLimb every time you open your terminal
+# Tweets from the Banndit (@UtilityLimb)
+
+Back when twitter was still a fun place, a person going by the handle bandit(@UtilityLimb) expertly crafted 665 tweets so weird and wonderful that they deserve a place in history.
+
+This will grant you wish the gift of a single piece of timeless wisdom from @UtilityLimb.
+
+## I just want it to install
+Then download it, run the .sh script if you're on a real computer, or the .ps1 script if you're on Windows and everything will be taken care of for you. You can edit your shell's startup script (```~/.bashrc,~/.zshrc,\Users\<you>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1```) and style it if you want a splash of colour or a bit more framing.
+
+## I don't like blindly running shell scripts from stranges/I want it to run how I want it to run
+
+The install scripts aren't rocket surgery, copy the ```utilitylimb``` folder and its contents to its permanent home, install fortune through brew or winget or whatever package manager you use. Then all you need to do is call ```fortune /wherever/you/put/it/utilitylimb``` to dispense a single tweet. I have it baked into a larger "welcome" function that gives some stats when I open a shell, but you can do with it as you wish.
+
+I made neither fortune, nor the @UtilityLimb tweets. I managed to find an old site with an archive of the tweets, and I tracked them down, and wrote the installer script to dispense them using fortune.
+
+I hope that this brings an air of wonder to your terminal as it has mine.
+
+---
+
+kris@8pi.ca
