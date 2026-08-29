@@ -6,7 +6,7 @@ This will grant you with the gift of a single piece of timeless wisdom from @Uti
 
 ## I just want it to install
 
-*Scripts are made for MacOS or Windows (as I have more confidence in your ability if you're a Linux user, and I can't really be bothered to code out what the package manager happens to be). If you're on another platform better than windows, you'll need to replace ```brew``` with whatever package manager you are using*
+*Scripts are made for MacOS or Windows (as I have more confidence in your ability if you're a Linux user, and I can't really be bothered to code out what the package manager happens to be). If you're on another platform better than windows but not MacOS, you'll need to replace ```brew``` with whatever package manager you are using*
 
 Then download it, ```chmod +x install.sh``` and run the .sh script if you're on a real computer, or just run the .ps1 script if you're on Windows and everything will be taken care of for you. You can edit your shell's startup script (```~/.bashrc,~/.zshrc,\Users\<you>\Documents\PowerShell\Microsoft.PowerShell_profile.ps1```) and style it if you want a splash of colour or a bit more framing.
 
