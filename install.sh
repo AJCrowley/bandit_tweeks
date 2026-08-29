@@ -1,4 +1,4 @@
-# install fortune if not already installed
+# install fortune if not already installed (for mac, replace with apt-get, dpkg, opkg, whatever package manager you use
 brew install fortune
 # copy content to new home
 cp -r utilitylimb /usr/local/opt
